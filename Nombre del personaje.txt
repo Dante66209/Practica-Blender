@@ -1,1 +1,6 @@
 Caracol_turbo
+
+Descripción:
+Soy un caracol impulsado por propulsores,
+diseñado para carreras de alta velocidad.
+Tengo lentes futuristas y fuego voxel animado.
